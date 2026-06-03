@@ -42,29 +42,7 @@ numberbook-api/
 - API HTTP : Retrofit + Gson
 - Interface Android : RecyclerView
 
-## Installation du backend
 
-1. Copier le dossier `backend` dans le dossier web local, par exemple `htdocs/numberbook-api` avec XAMPP.
-2. Demarrer Apache et MySQL.
-3. Importer le fichier SQL :
-
-```sql
-backend/numberbook.sql
-```
-
-4. Verifier la configuration de la base de donnees dans :
-
-```text
-backend/config/Database.php
-```
-
-## Routes API
-
-Base URL utilisee par l'application Android :
-
-```text
-http://10.0.2.2/numberbook-api/api/
-```
 
 Routes disponibles :
 
@@ -93,12 +71,7 @@ Exemple de donnees pour l'ajout d'un contact :
 
 ## Video demo
 
-Ajouter ici la video de demonstration du projet :
-
-```text
-Lien video : ................................................
-```
 
 ## Auteur
 
-Projet realise dans le cadre du lab20.
+CHARRAJ Mouad
