@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lab20" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_mouad</item>
+        <item name="colorSecondary">@color/secondary_mouad</item>
+        <item name="colorTertiary">@color/tertiary_mouad</item>
+        <item name="android:windowBackground">@color/dark_bg_mouad</item>
+        <item name="android:statusBarColor">@color/dark_bg_mouad</item>
+    </style>
+
+    <style name="Theme.Lab20" parent="Base.Theme.Lab20" />
+</resources>
